@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI,MACZD,QAAQC,IAAI","file":"boo.7de60a00.js","sourceRoot":"..","sourcesContent":["console.log(\"hi\");\nconsole.log(\"hi 2020\");\n"]}
